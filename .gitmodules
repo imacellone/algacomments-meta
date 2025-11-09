@@ -1,0 +1,6 @@
+[submodule "microservices/moderation-service"]
+	path = microservices/moderation-service
+	url = git@github.com:imacellone/algacomments-moderation-service.git
+[submodule "microservices/comment-service"]
+	path = microservices/comment-service
+	url = git@github.com:imacellone/algacomments-comment-service.git
